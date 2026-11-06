@@ -77,6 +77,4 @@ The project deliverables will be organized into the following folders:
 
 ## Dataset Source
 
-[Global Cybersecurity Threats (2015–2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
-
-ملحوظة: لو عايزة تشوفي التنسيق النهائي، الصقي النص في GitHub واضغطي Preview قبل `Commit changes`. متنسخيش النص من Preview؛ انسخي من هنا علشان رموز التنسيق تفضل موجودة.
+[Global Cybersecurity Threats (2015–2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024) 
