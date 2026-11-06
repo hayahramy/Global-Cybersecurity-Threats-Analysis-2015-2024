@@ -6,7 +6,7 @@
 
 ## 2. Project Idea
 
-This project focuses on analyzing global cybersecurity threats from **2015 to 2024** to identify attack trends, examine the financial impact of cyberattacks, and explore patterns across different industries and countries.
+This project focuses on analyzing global cybersecurity threats from 2015 to 2024 to identify attack trends, examine the financial impact of cyberattacks, and explore patterns across different industries and countries.
 
 The main goal is to transform cybersecurity data into meaningful insights through data cleaning, analysis, and visualization to better understand the evolving global cyber threat landscape.
 
