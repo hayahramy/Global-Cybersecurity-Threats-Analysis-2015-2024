@@ -32,9 +32,13 @@ The main goal is to transform cybersecurity data into meaningful insights throug
 ## 5. Roles & Responsibilities
 
 - **Hayah Ramy – Team Leader & Power BI Developer:** Leading the project, coordinating team tasks, monitoring progress, and developing interactive dashboards using Power BI.
-- **Omar Maher – MySQL Developer:** Database creation, data management, querying, and analysis using MySQL.
-- **Hana Ahmed – Python Developer:** Data preprocessing, exploratory data analysis, and statistical analysis using Python.
+
+- **Omar Maher – Python Developer:** Data preprocessing, data cleaning, exploratory data analysis, and statistical analysis using Python.
+
+- **Hana Ahmed – SQL Developer:** Database creation, data management, querying, and analysis using SQL.
+
 - **Tarek Hesham – Tableau Developer:** Developing interactive visualizations and dashboards using Tableau.
+
 - **Ahmed Mustafa – Excel Analyst:** Data cleaning, data preparation, analysis, and reporting using Microsoft Excel.
 
 **All team members will collaborate throughout the project** to ensure consistency, accuracy, and successful completion of the final deliverables.
@@ -77,4 +81,4 @@ The project deliverables will be organized into the following folders:
 
 ## Dataset Source
 
-[Global Cybersecurity Threats (2015–2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024) 
+[Global Cybersecurity Threats (2015–2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
